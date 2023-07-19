@@ -10,7 +10,7 @@ package section03;
  * 
  * 
  */
-public class Opreator06 {
+public class Operator06 {
 	public static void main(String[] args) {
 		int num1 = 3; 	// 0 0011
 		int num2 = 5; 	// 0 0101
@@ -22,7 +22,8 @@ public class Opreator06 {
 		// 3 : 0 0011
 		// ~3 : 1 1100
 		// 컴퓨터는 음수를 2의 보수로 생각한다.
-		// 
+		// 1의 보수 : 2진수의 반전
+		// 2의 보수 : 1의 보수 + 1
 		
 		System.out.println("~num1: " + ~num1);
 	}

@@ -6,7 +6,7 @@ package section03;
  *  !  : Not 조건, 여집합 개념, 논리값(boolean)값 반전 시킨다.
  * 
  */
-public class Operation04 {
+public class Operator04 {
 	public static void main(String[] args) {
 		boolean result = true && false; 
 		System.out.println("true && false: " + result);

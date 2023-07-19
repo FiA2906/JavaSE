@@ -10,6 +10,7 @@ package section02;
  *
  *	Alt + Ctrl + 위아래 방향키 : 줄 복사
  *	Alt + 위아래 방향키 : 줄 이동
+ *  Ctrl + Sft + W : 전체 창 닫기
  */
 public class Variable04 {
 	public static void main(String[] args) {
