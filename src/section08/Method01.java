@@ -29,7 +29,7 @@ public class Method01 {
 		printPoKeMon("025", "피카츄", "전기");
 		
 		String[] pokemons = {"피카츄", "라이츄", "파이리", "꼬부기"};
-		printPokeMon(pokemons);
+		printPoKeMon(pokemons);
 		
 	}
 	
